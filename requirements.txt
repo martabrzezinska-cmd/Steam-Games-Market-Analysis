@@ -1,0 +1,32 @@
+# Core Data Processing Libraries
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Data Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+streamlit>=1.35.0
+
+# Jupyter Support
+jupyter>=1.0.0
+ipykernel>=6.29.0
+ipywidgets>=8.1.0
+
+# Additional Data Processing Tools
+scikit-learn>=1.4.0
+scipy>=1.12.0
+openpyxl>=3.1.0  # For Excel file support
+xlrd>=2.0.1  # For reading older Excel formats
+
+# Data Quality & Validation
+missingno>=0.5.2  # Missing data visualization
+
+# Statistical Analysis
+statsmodels>=0.14.0
+
+# Performance & Optimization
+numba>=0.59.0
+# Web Scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
